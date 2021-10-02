@@ -1,0 +1,19 @@
+Using Apple Mac Pro system infomation.
+
+The device is identified as:
+
+Composite Device:
+
+  Product ID:	0x2870
+  Vendor ID:	0xeb1a  (Empia Technology, Inc.)
+  Version:	1.00
+  Speed:	Up to 480 Mb/s
+  Location ID:	0x14100000 / 12
+  Current Available (mA):	500
+  Current Required (mA):	500
+  Extra Operating Current (mA):	0
+  
+  
+<---- now to try to get info from both linux and windows to see if it identifies as the same device --->
+
+
